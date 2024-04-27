@@ -1,6 +1,7 @@
 A cheap fluid-ish simulation which runs on Mobile SDR (Quest 3) pipeline.
 
-![image](https://github.com/Tokusei/Q3_FlowmapParticles/assets/4631534/c3107724-b037-4d39-a17d-5d0e55fd3b70)
+![image](https://github.com/Tokusei/Q3_FlowmapParticles/assets/4631534/8855c7dc-3262-40c4-b690-e533fb219d60)
+
 
 This uses a series of pre-baked textures to simulate particle flow down a river. The maps used in the simulation are:\
 \
