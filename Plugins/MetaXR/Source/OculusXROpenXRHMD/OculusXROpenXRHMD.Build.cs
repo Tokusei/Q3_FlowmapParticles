@@ -105,7 +105,7 @@ namespace UnrealBuildTool.Rules
 					AddEngineThirdPartyPrivateStaticDependencies(Target, "DX11Audio");
 					AddEngineThirdPartyPrivateStaticDependencies(Target, "DirectSound");
 					AddEngineThirdPartyPrivateStaticDependencies(Target, "NVAftermath");
-					//AddEngineThirdPartyPrivateStaticDependencies(Target, "IntelMetricsDiscovery");
+					AddEngineThirdPartyPrivateStaticDependencies(Target, "IntelMetricsDiscovery");
 					AddEngineThirdPartyPrivateStaticDependencies(Target, "IntelExtensionsFramework");
 				}
 
